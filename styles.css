@@ -27,7 +27,7 @@ body{
 
 
 .login_center h1{
-  margin: 30% 5% 10% 5% ;
+  margin: 8% 5% 5% 5% ;
   background: white;
   border-radius: 10px;
   text-align: center;
@@ -40,7 +40,7 @@ body{
 }
 
 .inputs_center{
-  margin: 15% 15% 10% 15% ;
+  margin: 5% 15% 10% 15% ;
   padding: 8% 5% 8% 5%;
   background: white;
   border-radius: 10px;
